@@ -1,0 +1,16 @@
+body{
+background-color: #024CAA;
+}
+h1{
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #091057;
+  font-size: 8rem;
+  color: #DBD3D3;
+  display:flex;
+  justify-content: center;
+  text-wrap: nowrap;
+}
+p{
+  font-size: 2rem;
+}
